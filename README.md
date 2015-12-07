@@ -38,6 +38,7 @@ A curated list of the best and most useful (free and/or opensource) GUI-based mu
 
 * [Blender](https://www.blender.org/) - 3D modeling and animation
 * [Meshlab](http://meshlab.sourceforge.net/) - 3D modeling
+* [Python Photogrammetry Toolbox](http://arc-team-open-research.blogspot.com.br/2012/12/how-to-make-3d-scan-with-pictures-and.html) - Generate 3D model from photos
 
 ### Editors/Conversion
 
