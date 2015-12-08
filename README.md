@@ -81,7 +81,7 @@ A curated list of the best and most useful (free and/or opensource) GUI-based mu
 
 * [AVLinux](http://www.bandshed.net/AVLinux.html) - For multimedia production
 * [KXStudio](http://kxstudio.linuxaudio.org/) - For audio production
-* [OpenELec](http://openelec.tv/) - Media center
+* [OpenElec](http://openelec.tv/) - Media center
 * [Ubuntu Studio](https://ubuntustudio.org/) - Ubuntu for multimedia production
 
 
