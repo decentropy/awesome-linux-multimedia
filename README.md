@@ -9,7 +9,6 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [Cinelerra](http://cinelerra.org/) - Video editor
 * [KdenLive](https://kdenlive.org/) - Video editor
 * [Kino Video Editor](http://www.kinodv.org/) - Video editor
-* [Lightworks](https://www.lwks.com/) - Video editor
 * [Lives](http://lives-video.com/) - Video editor
 * [Natron](http://natron.fr/) - Video compositing
 * [Open Shot Video Editor](http://www.openshot.org/) - Video editor
