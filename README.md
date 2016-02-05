@@ -4,6 +4,10 @@ A curated list of the best and most useful (free and/or opensource) GUI-based mu
 
 Please read the [contribution guidelines](contributing.md) to contribute.
 
+### Helpful Articles
+* [Linux audio explained](http://tuxradar.com/content/how-it-works-linux-audio-explained)
+* [Tutorial: JACK Audio Server](https://www.youtube.com/watch?v=fMz6fDGBnA4)
+
 ### Video
 
 * [Cinelerra](http://cinelerra.org/) - Video editor
@@ -23,6 +27,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [FreqTweak](http://freqtweak.sourceforge.net/) - Audio filter GUI
 * [Hydrogen](http://www.hydrogen-music.org/) - Drum machine
 * [Jack](http://www.jackaudio.org/) - Audio connection manager
+* [Jack Rack](http://jack-rack.sourceforge.net/) - Layered sound effects
 * [LMMS](https://lmms.io/) - Music production studio
 * [Mixxx](http://mixxx.org/) - DJ Mixing
 * [MuseScore](https://musescore.org/) - Create and play sheet music
